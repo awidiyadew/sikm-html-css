@@ -22,8 +22,8 @@
 <img alt="world-culinary-collection" src="assets/world-culinary.png">
 
 ### Sample Data
-1. Pizza: Pizza is an Italian dish consisting of a flat, round base of dough baked with tomato sauce and cheese, typically with added meat or vegetables. Picture url https://source.unsplash.com/random/300x200/?pizza.
-2. Taco: A taco is a traditional Mexican dish consisting of a corn or wheat tortilla filled with various meats, beans, vegetables, cheese, and other toppings. Picture url https://source.unsplash.com/random/300x200/?taco.
-3. Sushi: Sushi is a Japanese dish consisting of cooked vinegared rice combined with other ingredients such as raw seafood, vegetables, and sometimes fruits. Picture url https://source.unsplash.com/random/300x200/?sushi.
+1. Pizza: Pizza is an Italian dish consisting of a flat, round base of dough baked with tomato sauce and cheese, typically with added meat or vegetables. Picture url https://source.unsplash.com/random/300x200/?pizza, learn more https://en.wikipedia.org/wiki/Pizza.
+2. Taco: A taco is a traditional Mexican dish consisting of a corn or wheat tortilla filled with various meats, beans, vegetables, cheese, and other toppings. Picture url https://source.unsplash.com/random/300x200/?taco, learn more https://en.wikipedia.org/wiki/Taco.
+3. Sushi: Sushi is a Japanese dish consisting of cooked vinegared rice combined with other ingredients such as raw seafood, vegetables, and sometimes fruits. Picture url https://source.unsplash.com/random/300x200/?sushi, learn more https://en.wikipedia.org/wiki/Sushi.
 
 
