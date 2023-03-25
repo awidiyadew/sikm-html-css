@@ -26,4 +26,14 @@
 2. Taco: A taco is a traditional Mexican dish consisting of a corn or wheat tortilla filled with various meats, beans, vegetables, cheese, and other toppings. Picture url https://source.unsplash.com/random/300x200/?taco, learn more https://en.wikipedia.org/wiki/Taco.
 3. Sushi: Sushi is a Japanese dish consisting of cooked vinegared rice combined with other ingredients such as raw seafood, vegetables, and sometimes fruits. Picture url https://source.unsplash.com/random/300x200/?sushi, learn more https://en.wikipedia.org/wiki/Sushi.
 
+### Tailwind CSS
+Let's improve the current design with Tailwind CSS and responsive design.
 
+#### Mobile Version
+<img alt="mobile" src="assets/screen-mobile.jpeg">
+
+#### Screen MD
+<img alt="mobile" src="assets/screen-md.jpeg">
+
+#### Screen LG
+<img alt="mobile" src="assets/screen-lg.jpeg">
